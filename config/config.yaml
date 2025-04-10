@@ -1,0 +1,170 @@
+gsv:
+ port:
+  inference: http://localhost:9872/
+ pth: SoVITS_weights_v3/mortis_v3_e2_s284_l32.pth
+ ckpt: GPT_weights_v3/mortis_v3-e25.ckpt
+ lang: 日文
+
+# 语句情感判断：
+# w：警告的语气，命令、祈使句等等
+# d：低沉的语气、或者难以分为其他4类的语气
+# h：开心、激动的语气
+# q：疑惑的语气
+# a：生气的语气
+ref:
+ taki_v3:
+  root_dir: E:\Mygo\voice\taki\inter
+  threshold: -40  # 静音处理时，合适的静音检测阈值
+  max_silence: 100  # 最大静音时长
+  ratio: 1.15
+  d:
+   text: 早く 決め ない と ライブ に 間に合わ なく なる 素人 の アノン じゃ 曲 の パターン に 対応 でき ない し
+   path: taki.wav_0004950080_0005182080.wav
+   use_sr: False
+  w:
+   text: そんなわけないから嘘ついても無駄お前以外やるわけないバスドラの中にお菓子入れたのお前でしょ
+   path: taki.wav_0044827520_0045069760.wav
+   use_sr: False
+  q:
+   text: 海外セレブの画像?ほとんど猫がダメなやつじゃん
+   path: taki.wav_0041383040_0041515200.wav
+   use_sr: False
+  h:
+   text: アノン、ラーナ、ソヨ、これでいける。合わせて、これならどう?行ってこい!一緒に!ついてきて!
+   path: taki.wav_0121119040_0121441600.wav
+   use_sr: False
+  a:
+   text: そんなわけないから嘘ついても無駄お前以外やるわけないバスドラの中にお菓子入れたのお前でしょ
+   path: taki.wav_0044827520_0045069760.wav
+   use_sr: True
+
+ mortis_v3:
+  root_dir: E:\Mygo\voice\mortis_v3\inter
+  threshold: -50  # 静音处理时，合适的静音检测阈值
+  max_silence: 100  # 最大静音时长
+  ratio: 1.15
+  w:
+   text: なんでそんな話になるの?ウイカちゃん嘘ばっかり!サキコちゃんと一緒にいたいからって!
+   path: mortis.wav_0008078400_0008269760.wav
+   use_sr: False
+  d:
+   text: ウイカちゃん前にメンバーが辞めるのはバンド解散と同じだって言ってたでしょ
+   path: mortis.wav_0000118400_0000302720.wav
+   use_sr: False
+  h:
+   text: 聞けない聞いたことないしありがとうございますマネージャーさんに聞いてみまーす
+   path: mortis.wav_0002702720_0002895680.wav
+   use_sr: True
+  q:
+   text: さきこちゃんがバンドにしがみついてるのってそういうことでしょ?
+   path: mortis.wav_0001371840_0001511360.wav
+   use_sr: False
+  a:
+   text: さきこちゃんの言いなりだからむつみちゃんは苦しい
+   path: mortis.wav_0009790080_0009908480.wav
+   use_sr: True
+
+ uika_v2:
+  root_dir: E:\Mygo\voice\uika\inter
+  threshold: -50  # 静音处理时，合适的静音检测阈值
+  max_silence: 100  # 最大静音时长
+  ratio: 1.15
+  w:
+   text: ここから近いし家の人が心配しないなら必要なものがあったら言ってね
+   path: uika.wav_0006982720_0007153600.wav
+   aux_path: [uika.wav_0006838720_0006982720.wav]
+  d:
+   text: 楽しかったな。夏になると、うちの島にサキちゃんが来て。
+   path: uika.wav_0001231040_0001404160.wav
+   aux_path: [uika.wav_0002279040_0002454400.wav]
+  h:
+   text: この写真私も好きだな健康に良くない
+   path: uika.wav_0004112640_0004276160.wav
+   aux_path: [uika.wav_0004287040_0004450240.wav]
+  q:
+   text: ツアーまでずっと?それで本当に作業が進むの?
+   path: uika.wav_0007297600_0007445440.wav
+   aux_path: []
+  a:
+   text: バンドやってたよね だからいつも見てたんだってば
+   path: uika.wav_0001549760_0001696960.wav
+   aux_path: [uika.wav_0004450240_0004578240.wav]
+
+ umiri_v2:
+  root_dir: E:\Mygo\voice\umiri\inter
+  threshold: -50  # 静音处理时，合适的静音检测阈值
+  max_silence: 100  # 最大静音时长
+  ratio: 1.15
+  w:
+   text: 成功しているのではないでしょうか戸川さんが望む安倍無事かからは外れるかもしれませんが
+   path: umiri.wav_0000695360_0000880960.wav
+   aux_path: [umiri.wav_0000000320_0000184320.wav]
+  d:
+   text: 演出の件で先方から要望がありましてミュージックフロアの件です
+   path: umiri.wav_0001456960_0001622720.wav
+   aux_path: [umiri.wav_0001990080_0002224000.wav]
+  q:
+   text: xx
+   path: xx
+   aux_path: [ ]
+  h:
+   text: xx
+   path: xx
+   aux_path: []
+  a:
+   text: xx
+   path: xx
+   aux_path: []
+
+ nyamu_v2:
+  root_dir: E:\Mygo\voice\nyamu\inter
+  threshold: -50  # 静音处理时，合适的静音检测阈值
+  max_silence: 100  # 最大静音时长
+  ratio: 1.15
+  w:
+   text: 私にとって今は自分を織り込む大事な時なのムーコにはわかんないかもしれないけどさ
+   path: nyamu.wav_0001216320_0001403520.wav
+   aux_path: [nyamu.wav_0003262720_0003381440.wav]
+  d:
+   text: てかうみこ一般人のくせに話題になってんのムカつく有名なういこやむーこならわかるけどさ
+   path: nyamu.wav_0002518400_0002754560.wav
+   aux_path: [nyamu.wav_0002923520_0003104960.wav]
+  q:
+   text: じゃあご褒美ににゃむちの動画出てくれます?
+   path: nyamu.wav_0000435840_0000567040.wav
+   aux_path: [nyamu.wav_0001986560_0002230080.wav]
+  h:
+   text: こんな張り付いた笑顔なんて誰も欲しくなーい
+   path: nyamu.wav_0003970240_0004133440.wav
+   aux_path: [nyamu.wav_0000146880_0000308800.wav]
+  a:
+   text: そんな怯えないでよ。私、ムーコと仲良くなりたいんだ。
+   path: nyamu.wav_0000146880_0000308800.wav
+   aux_path: [nyamu.wav_0002754560_0002923200.wav]
+
+ sakiko_v2:
+  root_dir: E:\Mygo\voice\saki\common\inter
+  threshold: -50  # 静音处理时，合适的静音检测阈值
+  max_silence: 250  # 最大静音时长
+  ratio: 1.15
+  w:
+   text: ドラムはもっと上達していただかなくてはなりません見栄えも派手で花がありますわそれでぜひ私のバンドにと
+   path: sakiko.wav_0000684160_0000915200.wav
+   aux_path: [sakiko.wav_0009834560_0009944640.wav]
+  d:
+   text: 私にくださいませんか加えてベースにはプロと遜色ない腕前の人間を
+   path: sakiko.wav_0000360000_0000559360.wav
+   aux_path: [sakiko.wav_0000000000_0000202880.wav]
+  q:
+   text: つかぬことをお伺いしますが、バンドにご興味はありまして?
+   path: sakiko.wav_0002118720_0002246400.wav
+   aux_path: [sakiko.wav_0002118720_0002246400.wav]
+  h:
+   text: カラオケってなんて楽しいんですの?そうですわ
+   path: sakiko.wav_0004341760_0004477760.wav
+   aux_path: [sakiko.wav_0004477760_0004639040.wav]
+  a:
+   text: 大変楽しみにしておりました改めまして本日はお集まりくださってありがとうございます
+   path: sakiko.wav_0001898880_0002111360.wav
+   aux_path: [sakiko.wav_0005083200_0005230720.wav]
+

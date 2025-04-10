@@ -1,0 +1,6 @@
+tqdm
+PyYAML
+gradio
+numpy
+pydub
+scipy
