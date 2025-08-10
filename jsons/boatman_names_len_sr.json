@@ -1,0 +1,166 @@
+{
+    "radioarrived01.wav": {
+        "length": 1084,
+        "sr": 44100
+    },
+    "radioarrived02.wav": {
+        "length": 961,
+        "sr": 44100
+    },
+    "radioarrived03.wav": {
+        "length": 2323,
+        "sr": 44100
+    },
+    "radioarrived06.wav": {
+        "length": 2320,
+        "sr": 44100
+    },
+    "radioarrived07.wav": {
+        "length": 2384,
+        "sr": 44100
+    },
+    "radioarrived08.wav": {
+        "length": 2645,
+        "sr": 44100
+    },
+    "radiobutton108.wav": {
+        "length": 4192,
+        "sr": 44100
+    },
+    "radiobutton110.wav": {
+        "length": 8565,
+        "sr": 44100
+    },
+    "radiobutton111.wav": {
+        "length": 1128,
+        "sr": 44100
+    },
+    "radiobutton123.wav": {
+        "length": 2107,
+        "sr": 44100
+    },
+    "radiobutton124.wav": {
+        "length": 5371,
+        "sr": 44100
+    },
+    "radiobutton201.wav": {
+        "length": 459,
+        "sr": 44100
+    },
+    "radiobutton205.wav": {
+        "length": 1323,
+        "sr": 44100
+    },
+    "radiobutton207.wav": {
+        "length": 1249,
+        "sr": 44100
+    },
+    "radiobutton212.wav": {
+        "length": 6603,
+        "sr": 44100
+    },
+    "radioinitialbroadcast02.wav": {
+        "length": 6752,
+        "sr": 44100
+    },
+    "radioinitialbroadcast03.wav": {
+        "length": 2389,
+        "sr": 44100
+    },
+    "radioinitialbroadcast05.wav": {
+        "length": 2141,
+        "sr": 44100
+    },
+    "radioinitialbroadcast07.wav": {
+        "length": 1328,
+        "sr": 44100
+    },
+    "radioinitialbroadcast08.wav": {
+        "length": 5008,
+        "sr": 44100
+    },
+    "radioinitialbroadcast09.wav": {
+        "length": 2016,
+        "sr": 44100
+    },
+    "radioinitialbroadcast11.wav": {
+        "length": 2621,
+        "sr": 44100
+    },
+    "radioinitialbroadcast12.wav": {
+        "length": 6965,
+        "sr": 44100
+    },
+    "radioinitialbroadcast13.wav": {
+        "length": 3967,
+        "sr": 44100
+    },
+    "radioinitialbroadcast14.wav": {
+        "length": 5520,
+        "sr": 44100
+    },
+    "radioinitialbroadcast15.wav": {
+        "length": 6181,
+        "sr": 44100
+    },
+    "radioinitialbroadcast16.wav": {
+        "length": 3085,
+        "sr": 44100
+    },
+    "radioinitialbroadcast17.wav": {
+        "length": 2131,
+        "sr": 44100
+    },
+    "radioinitialbroadcast18.wav": {
+        "length": 1557,
+        "sr": 44100
+    },
+    "radioinitialbroadcast19.wav": {
+        "length": 2427,
+        "sr": 44100
+    },
+    "radiointransit01.wav": {
+        "length": 1531,
+        "sr": 44100
+    },
+    "radiointransit03.wav": {
+        "length": 1659,
+        "sr": 44100
+    },
+    "radiointransit06.wav": {
+        "length": 1139,
+        "sr": 44100
+    },
+    "radiointransit07.wav": {
+        "length": 1645,
+        "sr": 44100
+    },
+    "radiointransit08.wav": {
+        "length": 1781,
+        "sr": 44100
+    },
+    "radionag01.wav": {
+        "length": 1941,
+        "sr": 44100
+    },
+    "radionag02.wav": {
+        "length": 2224,
+        "sr": 44100
+    },
+    "radionag03.wav": {
+        "length": 1347,
+        "sr": 44100
+    },
+    "radionag04.wav": {
+        "length": 1560,
+        "sr": 44100
+    },
+    "radionag05.wav": {
+        "length": 2451,
+        "sr": 44100
+    },
+    "radionag07.wav": {
+        "length": 3168,
+        "sr": 44100
+    }
+}
