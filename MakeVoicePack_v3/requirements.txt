@@ -1,0 +1,6 @@
+tqdm==4.67.1
+gradio==5.18.0
+numpy==1.26.2
+pydub==0.25.1
+scipy==1.13.1
+Send2Trash==1.8.3

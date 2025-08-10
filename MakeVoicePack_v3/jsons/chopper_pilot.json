@@ -1,0 +1,347 @@
+{
+    "hospital_finale_flyout_01a.wav": {
+        "jp": "準備しておきなと言った理由が分かったかい?",
+        "zh": "现在知道我为什么叫你准备了吗？",
+        "emo": "w"
+    },
+    "hospital_finale_flyout_01b.wav": {
+        "jp": "ヤツらには希望を感知する能力があるんだ。",
+        "zh": "我保证它们可以感到希望...",
+        "emo": "w"
+    },
+    "hospital_finale_flyout_01c.wav": {
+        "jp": "ヤツらは希望を必死に潰す。",
+        "zh": "而他们一旦察觉到希望，就会将其摧毁。",
+        "emo": "w"
+    },
+    "hospital_finale_flyout_02.wav": {
+        "jp": "そちらに本物の医者はいないよな?",
+        "zh": "我想你们部队没有任何真正的医生，是吗？",
+        "emo": "d"
+    },
+    "hospital_finale_flyout_03.wav": {
+        "jp": "通りで救助しようとしたが、もっと慎重にいくべきだった。 どうも...やられたようだ",
+        "zh": "试一下在街上接收，我需要了解得更清楚...我想，我想我被击中了。",
+        "emo": "d"
+    },
+    "hospital_finale_flyout_04.wav": {
+        "jp": "多分大丈夫だ",
+        "zh": "我会没事的。",
+        "emo": "d"
+    },
+    "hospital_finale_flyout_05.wav": {
+        "jp": "気分がよくない",
+        "zh": "感觉不太好。",
+        "emo": "d"
+    },
+    "hospital_finale_flyout_06.wav": {
+        "jp": "救急キットを取ってくれるか?",
+        "zh": "你能帮我拿下我的急救包吗？",
+        "emo": "d"
+    },
+    "hospital_finale_flyout_07.wav": {
+        "jp": "殴られてたようだったが、免疫があるのか?",
+        "zh": "看你被击中了，你有免疫力吗？",
+        "emo": "d"
+    },
+    "hospital_finale_flyout_08.wav": {
+        "jp": "そうであればいいな",
+        "zh": "希望是。",
+        "emo": "d"
+    },
+    "hospital_finale_flyout_09.wav": {
+        "jp": "寒くなってきた",
+        "zh": "我真的变冷了。",
+        "emo": "d"
+    },
+    "hospital_finale_flyout_10.wav": {
+        "jp": "ああ...寒い...",
+        "zh": "我真的变冷了。",
+        "emo": "d"
+    },
+    "hospital_finale_flyout_11.wav": {
+        "jp": "ああアアあぁァぁアー!!!",
+        "zh": "ARGHGHG!!!",
+        "emo": "w"
+    },
+    "hospital_pilot_finale_getin_01.wav": {
+        "jp": "早くヘリに乗れ!",
+        "zh": "得了，得了。 上直升飞机！",
+        "emo": "w"
+    },
+    "hospital_pilot_finale_getin_02.wav": {
+        "jp": "急げ! 急げ! 乗り込め!",
+        "zh": "得了，得了。 上船！",
+        "emo": "w"
+    },
+    "hospital_pilot_finale_getin_03.wav": {
+        "jp": "走れ走れ走れ!!",
+        "zh": "走吧，走吧，走吧！",
+        "emo": "w"
+    },
+    "hospital_pilot_finale_getin_04.wav": {
+        "jp": "そんなに長くは待てないぞ! 早く!!",
+        "zh": "我坚持不了多久了！ 动作快！",
+        "emo": "w"
+    },
+    "hospital_pilot_finale_getin_05.wav": {
+        "jp": "乗ってくれ! 早く! ",
+        "zh": "快跑！ 快跑！ 快跑！",
+        "emo": "w"
+    },
+    "hospital_pilot_finale_getin_06.wav": {
+        "jp": "早く! 乗ってくれ!",
+        "zh": "快跑！ 快跑！",
+        "emo": "w"
+    },
+    "hospital_finale_getin_01.wav": {
+        "jp": "早くヘリに乗れ!",
+        "zh": "得了，得了。 上直升飞机！",
+        "emo": "w"
+    },
+    "hospital_finale_getin_02.wav": {
+        "jp": "急げ! 急げ! 乗り込め!",
+        "zh": "得了，得了。 上船！",
+        "emo": "w"
+    },
+    "hospital_finale_getin_03.wav": {
+        "jp": "走れ走れ走れ!!",
+        "zh": "走吧，走吧，走吧！",
+        "emo": "w"
+    },
+    "hospital_finale_getin_04.wav": {
+        "jp": "そんなに長くは待てないぞ! 早く!!",
+        "zh": "我坚持不了多久了！ 动作快！",
+        "emo": "w"
+    },
+    "hospital_finale_getin_05.wav": {
+        "jp": "乗ってくれ! 早く! ",
+        "zh": "快跑！ 快跑！ 快跑！",
+        "emo": "w"
+    },
+    "hospital_finale_getin_06.wav": {
+        "jp": "早く! 乗ってくれ!",
+        "zh": "快跑！ 快跑！",
+        "emo": "w"
+    },
+    "hospital_finale_getready_01.wav": {
+        "jp": "やったな! 到着するまで、何とか持ちこたえてくれ。 だが、準備はしっかりな。 持ちこたえるには、銃と弾、それに物資が必要だ。 そちらの準備ができない限り、こちらも着陸できない。 準備ができたら教えてくれ。 報道ヘリ5、通信終了",
+        "zh": "你们成功了！ 你们需要做的就是一直坚持到我们到达为止。但你们首先需要准备。你们需要一支架设好的枪和其他补给，帮你维持战斗。只有你准备好了，我才能着陆。你准备好了之后就给我回电话。5 号新闻直升飞机完毕。",
+        "emo": "w"
+    },
+    "hospital_finale_getready_02.wav": {
+        "jp": "応答があって嬉しいよ",
+        "zh": "很高兴听见你的声音。",
+        "emo": "d"
+    },
+    "hospital_finale_getready_03.wav": {
+        "jp": "応答があって嬉しいよ、Mercy病院。 何とか生き延びてくれ。 今から救出に向かう。 自衛手段をしっかり準備して、必ず生き延びてくれ。 物資と銃、それに弾薬を残してきてあるからな。 準備ができたら呼んでくれ",
+        "zh": "很高兴听到你们从仁慈医院传来消息。在那别走，我马上就来接你们。 如果你们想活下去，就必须增强防御能力。我们留下了一些补给和一支架设好的枪。你们安装好，准备好了回我电话。",
+        "emo": "h"
+    },
+    "hospital_finale_intransit_01.wav": {
+        "jp": "Mercy病院、少し遅れる。 ちょっとした...事故があった。 報道ヘリ5、通信終了",
+        "zh": "仁慈医院，行驶地有点晚，刚刚出了...一个事故。 5 号直升飞机的消息输出。",
+        "emo": "w"
+    },
+    "hospital_finale_intransit_02.wav": {
+        "jp": "報道ヘリ5からMercy病院へ。 10分後に到着予定だ。 報道ヘリ5、通信終了",
+        "zh": "消息，5 号直升飞机预计 10 分钟之后到达仁慈医院。 5 号直升飞机的消息输出。",
+        "emo": "w"
+    },
+    "hospital_finale_intransit_03.wav": {
+        "jp": "報道ヘリ5からMercy病院へ。 7分後に到着予定だ。 報道ヘリ5、通信終了",
+        "zh": "5 号新闻直升飞机飞往仁慈医院。预计行程 7 分钟。5 号新闻直升飞机完毕。",
+        "emo": "w"
+    },
+    "hospital_finale_intransit_04.wav": {
+        "jp": "報道ヘリ5からMercy病院へ、どうやら君たちを乗せるのが私のラストフライトになりそうだ",
+        "zh": "消息，5 号直升飞机将到达仁慈医院，看来你将成为我的末次班。",
+        "emo": "w"
+    },
+    "hospital_finale_intransit_05.wav": {
+        "jp": "報道ヘリ5からMercy病院へ。 5分後に到着予定。 5分後だ",
+        "zh": "5 号新闻直升飞机飞往仁慈医院。预计行程 5 分钟。",
+        "emo": "w"
+    },
+    "hospital_finale_intransit_06.wav": {
+        "jp": "Mercy病院を目視で確認した。 荷物はいっぱいあるみたいだな",
+        "zh": "我看见了，仁慈医院，看来你们正忙着呢。",
+        "emo": "w"
+    },
+    "hospital_finale_intransit_07.wav": {
+        "jp": "Mercy病院。 あのTankを倒してくれ、このままでは着陸できない!",
+        "zh": "仁慈医院，在我着陆之前，你得消灭掉 Tank。",
+        "emo": "w"
+    },
+    "hospital_finale_intransit_08.wav": {
+        "jp": "とにかくTankを倒してくれ、このままでは君たちを救助できない!",
+        "zh": "仁慈医院，在我来接你之前，你得消灭掉所有的 Tank。",
+        "emo": "w"
+    },
+    "hospital_finale_intransit_09.wav": {
+        "jp": "これでは着陸できない。 ヘリポートの横に降りる",
+        "zh": "我无法着陆，我旁边的着陆架变得十分灼热。",
+        "emo": "w"
+    },
+    "hospital_finale_intransit_10.wav": {
+        "jp": "Mercy病院、ヘリポートまで来てくれ! 繰り返す。 ヘリポートに来てくれ!",
+        "zh": "仁慈医院，接近着陆架了！ 请回话。 接近着陆架了！",
+        "emo": "w"
+    },
+    "hospital_finale_onmyway_01.wav": {
+        "jp": "了解した、今向かってる。 到着予定は15分後だ。 何とか耐えてくれ。 報道ヘリ5、通信終了",
+        "zh": "好的，我上路了。 预计行程 15 分钟。坚持住。5 号新闻直升飞机完毕。",
+        "emo": "w"
+    },
+    "hospital_finale_onmyway_02.wav": {
+        "jp": "今向かってる、到着予定は15分後だ。 報道ヘリ5、通信終了",
+        "zh": "我马上来。预计行程 15 分钟。5 号新闻直升飞机完毕。",
+        "emo": "w"
+    },
+    "hospital_finale_onmyway_03.wav": {
+        "jp": "Mercy病院、準備はできているのか? 現在そちらに向かっている。 到着予定は15分後だ。 報道ヘリ5、通信終了",
+        "zh": "仁慈医院，还真是快啊，希望你们准备好了。我在赶来。预计行程 15 分钟。5 号新闻直升飞机完毕。",
+        "emo": "w"
+    },
+    "hospital_finale_pickup_01.wav": {
+        "jp": "Mercy病院、いないのか?",
+        "zh": "仁慈医院，在那儿吗？",
+        "emo": "w"
+    },
+    "hospital_finale_pickup_02.wav": {
+        "jp": "Mercy病院、いないのか?",
+        "zh": "仁慈医院，在那儿吗？",
+        "emo": "w"
+    },
+    "hospital_finale_pickup_03.wav": {
+        "jp": "Mercy病院、応答せよ",
+        "zh": "快回话。仁慈医院，快回话。",
+        "emo": "w"
+    },
+    "hospital_finale_pickup_04.wav": {
+        "jp": "報道ヘリ5からMercy病院へ",
+        "zh": "消息，5 号直升飞机将到达仁慈医院。",
+        "emo": "w"
+    },
+    "hospital_finale_pickup_05.wav": {
+        "jp": "Mercy病院、いないのか? 応答願う",
+        "zh": "仁慈医院，在的话请回答。",
+        "emo": "w"
+    },
+    "hospital_finale_pickup_06.wav": {
+        "jp": "Mercy病院、いたら応答してくれ",
+        "zh": "仁慈医院，在的话请接起无线电通话。",
+        "emo": "w"
+    },
+    "hospital_finale_pickup_07.wav": {
+        "jp": "Mercy病院、そこにいるなら応答してくれ",
+        "zh": "仁慈医院，在的话请用无线电通话。",
+        "emo": "w"
+    },
+    "hospital_finale_pickup_loud_01.wav": {
+        "jp": "Mercy病院、いないのか?",
+        "zh": "仁慈医院，你在那儿吗？",
+        "emo": "w"
+    },
+    "hospital_finale_pickup_loud_02.wav": {
+        "jp": "応答せよ。 Mercy病院、応答せよ",
+        "zh": "请回话，仁慈医院，请回话。",
+        "emo": "w"
+    },
+    "hospital_intro_heli_01.wav": {
+        "jp": "北部の安全地帯まで連れて行こう",
+        "zh": "我会把你运送到北部的安全地带。",
+        "emo": "w"
+    },
+    "hospital_intro_heli_02.wav": {
+        "jp": "軍、というか、軍の生き残り部隊が北部に安全地帯を設立した",
+        "zh": "军队或剩余的军队在北部有安全地带。",
+        "emo": "w"
+    },
+    "hospital_intro_heli_03.wav": {
+        "jp": "軍、というか、軍の生き残り部隊が北部に野営地を立てている",
+        "zh": "军队或剩余的军队在北部有一个露营地。",
+        "emo": "w"
+    },
+    "hospital_intro_heli_04.wav": {
+        "jp": "北に軍の安全地帯がある",
+        "zh": "军队在离这儿的北部有一个安全地带。",
+        "emo": "w"
+    },
+    "hospital_intro_heli_05.wav": {
+        "jp": "北に軍の野営地がある",
+        "zh": "军队在北部有一个露营地。",
+        "emo": "w"
+    },
+    "hospital_intro_heli_06.wav": {
+        "jp": "そこなら安全だ",
+        "zh": "你在那儿会比较安全。",
+        "emo": "h"
+    },
+    "hospital_intro_heli_07.wav": {
+        "jp": "大丈夫だ",
+        "zh": "你会没事的。",
+        "emo": "h"
+    },
+    "hospital_intro_heli_08.wav": {
+        "jp": "すまないが、通りに着陸するのは危険すぎる。 どうやら、私はこの街で最後のパイロットのようだ",
+        "zh": "抱歉，我不能再次遭受街头着陆的冒险。 我想我可能是这座城市的最后一名飞行员了。",
+        "emo": "w"
+    },
+    "hospital_intro_heli_09.wav": {
+        "jp": "すまないが、通りに着陸するのは危険すぎる",
+        "zh": "抱歉，我不能再次遭受街头着陆的冒险。",
+        "emo": "w"
+    },
+    "hospital_intro_heli_10.wav": {
+        "jp": "笑顔を見るのはいいもんだ",
+        "zh": "很高兴看到一些微笑的脸。",
+        "emo": "h"
+    },
+    "hospital_intro_heli_11.wav": {
+        "jp": "そう遠くない",
+        "zh": "不远了。",
+        "emo": "w"
+    },
+    "hospital_intro_heli_12.wav": {
+        "jp": "さあ、物資を使ってくれ。 役に立つはずだ",
+        "zh": "这些物资可以帮你解决困难。",
+        "emo": "d"
+    },
+    "hospital_intro_heli_13.wav": {
+        "jp": "さあ、多少は役に立つはずだ",
+        "zh": "瞧，这可以帮你减轻一些困难。",
+        "emo": "d"
+    },
+    "hospital_intro_heli_14.wav": {
+        "jp": "使ってくれ",
+        "zh": "这应该能帮你解决困难。",
+        "emo": "h"
+    },
+    "hospital_intro_heli_15.wav": {
+        "jp": "幸運を祈る!",
+        "zh": "祝你好运！",
+        "emo": "h"
+    },
+    "hospital_intro_heli_16.wav": {
+        "jp": "報道ヘリ5、通信終了",
+        "zh": "5 号直升飞机的消息输出。",
+        "emo": "w"
+    },
+    "hospital_intro_heli_17.wav": {
+        "jp": "これが聞こえたら、Mercy病院に避難してくれ。 繰り返す。 Mercy病院に避難してくれ",
+        "zh": "听见消息的人，请前往仁慈医院撤离。重复一遍，请前往仁慈医院撤离。",
+        "emo": "w"
+    },
+    "hospital_intro_hello_01.wav": {
+        "jp": "おーい、こっちだ! これ以上近づけない。 だが、Mercy病院の屋上まで来られたら、君たちを北部にある軍の安全地帯まで連れて行ける。 何とかしてMercy病院までたどり着いてくれ。 到着したら無線でそう伝えてくれ",
+        "zh": "嘿下面的朋友！我没法再靠近了。但如果你们能上到仁慈医院的屋顶，我可以把你们带到北边的军事安全区。但是你们必须先到仁慈医院才行。到了之后用那儿的无线电呼叫我。",
+        "emo": "w"
+    },
+    "hospital_intro_hello_02.wav": {
+        "jp": "おーい、こっちだ! ここで君たちを拾うのはリスクが高すぎる。 ここから一番近い避難場所は、Mercy病院の屋上だ。 ここからそう遠くない。 そこまでたどり着いたら、無線で呼び出してくれ。 そこでなら救出できる",
+        "zh": "嘿，下面的人！ 我不能冒险在这里接你们。 最近的撤离点在仁慈医院的楼顶。 离这儿不太远。 你们到了之后就用那儿的无线电呼我。我会带你们飞离这场灾难。",
+        "emo": "w"
+    }
+}
